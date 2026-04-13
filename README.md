@@ -7,7 +7,7 @@
 
 | File | Purpose |
 |---|---|
-| `sir_model.py` | Core model — `PersonAgent` + `SIRModel` (shared by all (future) parts) |
+| `sir_model.py` | Core model — `PersonAgent` + `SIRModel` (shared by all parts) |
 | `part_a.py` | Single simulation run, S/I/R timeseries |
 | `part_c.py` | Social distancing parameter sweep + heatmap |
 
