@@ -1,5 +1,5 @@
 """
-Part (a) – Single run of the SIR model.
+Part (a) - Single run of the SIR model.
 
 Standard settings:
   N=500, K=10, recovery_chance=1%, spread_chance=10%
